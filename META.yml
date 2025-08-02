@@ -18,4 +18,4 @@ requires:
 resources:
   homepage: https://github.com/oaxlin/Throw
   repository: https://github.com/oaxlin/Throw.git
-version: '0.13'
+version: '0.14'

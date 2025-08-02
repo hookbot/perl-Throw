@@ -11,7 +11,7 @@ Throw - Simple exceptions that do the right things in multiple contexts
 =cut
 
 our (@EXPORT, $trace, $level, $pretty, $js, $jp) = ('throw');
-our $VERSION = '0.13'; #VERSION
+our $VERSION = '0.14'; #VERSION
 
 sub import {
     no strict 'refs'; ## no critic
