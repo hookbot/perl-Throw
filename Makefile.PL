@@ -19,7 +19,7 @@ my %WriteMakefileArgs = (
   "PREREQ_PM" => {
     "JSON" => 0
   },
-  "VERSION" => "0.13",
+  "VERSION_FROM" => "lib/Throw.pm",
   "test" => {
     "TESTS" => "t/*.t"
   }
