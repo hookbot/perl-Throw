@@ -1,6 +1,12 @@
-==================================================
-Changes from 2014-12-18 00:00:00 +0000 to present.
-==================================================
+-----------------------------------------
+version 0.14 at 2025-08-02 21:00:00 +0000
+-----------------------------------------
+
+  Author: HookBot <hookbot@github.com>
+
+  Match git repo with CPAN including build script.
+  Bump version to mark Distribution tweaks.
+  (No functional changes.)
 
 -----------------------------------------
 version 0.13 at 2015-12-18 18:15:11 +0000
@@ -52,6 +58,10 @@ version 0.13 at 2015-12-18 18:15:11 +0000
 
     add travis yml 
 
+-----------------------------------------
+version 0.12 at 2015-02-06 20:53:11 +0000
+-----------------------------------------
+
   Change: 668a39ed4c9b38a7b38db2b70a6cbe2e21e766fb
   Author: Jason Terry <jterry@bluehost.com>
   Date : 2015-02-06 13:52:28 +0000
@@ -72,11 +82,19 @@ version 0.13 at 2015-12-18 18:15:11 +0000
 
     Add in GithubMeta so metacpan will work nicer 
 
+-----------------------------------------
+version 0.11 at 2014-05-05 17:28:04 +0000
+-----------------------------------------
+
   Change: 369b1cc4087c3055ed824c1f5f9236173cfc1257
   Author: Jason Terry <jterry@jterry-mac.local>
   Date : 2014-05-05 11:25:25 +0000
 
     Add license info to perldoc. Require 5.8.8. Minor test cleanup. 
+
+-----------------------------------------
+version 0.10 at 2014-04-04 20:50:19 +0000
+-----------------------------------------
 
   Change: b6501f1cbc1c5825bae0b36897ae765e8afb1f87
   Author: Jason Terry <jterry@jterry-mac.local>
